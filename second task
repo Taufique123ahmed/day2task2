@@ -1,0 +1,7 @@
+difference between windows and document objects
+The window is a root level at the javascriptobject.it is a global object in javascript and root object of DOM.
+wherw as document is an object we use a document object for manipulation inside the document.
+the properties related to window objects are length,inner width,innerheight and properties related to the document objects are title,URL
+syntax of window object is window.propertyname where as syntax of document is document.propertyname OR window.document.propertyname. 
+
+
